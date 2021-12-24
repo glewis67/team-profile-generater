@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glewis67/team-profile-generater.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glewis67/team-profile-generater/issues"
+  },
+  "homepage": "https://github.com/glewis67/team-profile-generater#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
