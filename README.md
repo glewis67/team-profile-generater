@@ -10,7 +10,7 @@
 
 ## Desktop
 
-https://youtu.be/gE4b62NSG2E
+https://youtu.be/G4Bbqz-cWJE
 
 
 ## Table of Contents
@@ -35,6 +35,9 @@ The languages and libaries used in the application:
 
 - Node.js
 - API
+- JavaScript
+- CSS
+- JSON
 
 
 ## Installation
