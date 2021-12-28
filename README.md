@@ -12,6 +12,8 @@
 
 https://youtu.be/G4Bbqz-cWJE
 
+![screenshot](./team.jpg)
+
 
 ## Table of Contents
 
