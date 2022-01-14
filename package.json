@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/glewis67/team-profile-generater#readme",
   "dependencies": {
-    "inquirer": "^8.1.2"
+    "inquirer": "^8.1.2",
+    "jest": "^27.4.7"
   }
 }

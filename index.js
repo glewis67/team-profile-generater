@@ -2,7 +2,6 @@ const Engineer = require("./lib/engineer");
 const Intern = require("./lib/intern");
 const Manager = require("./lib/manager");
 const inquirer = require("inquirer");
-const path = require("path");
 const fs = require("fs");
 const template = require("./src/html-template")
 let team = []
