@@ -6,12 +6,7 @@ const path = require("path");
 const fs = require("fs");
 const template = require("./src/html-template")
 let team = []
-function init() {
 
-  managerInfo();
-  
-}
- 
 function managerInfo() {
   inquirer
   .prompt([
@@ -139,7 +134,7 @@ function nextStep(){
           nextStep()
         });
       }
-init()
+managerInfo()
 function teamBuild(){
   const data = template(team)
   fs.writeFileSync("./dist/index.html",data, "utf-8")
